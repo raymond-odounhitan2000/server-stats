@@ -103,5 +103,3 @@ Ce projet est sous licence MIT — libre à toi de l’utiliser, le modifier et 
 
 *"Parce qu’un serveur qui parle, c’est un admin qui dort tranquille."*
 Hack the shell, own the world. 🌐
-
-```
