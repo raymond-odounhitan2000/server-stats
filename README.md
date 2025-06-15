@@ -5,8 +5,8 @@
 
 Script Bash simple et puissant pour analyser les performances d’un serveur Linux en un clin d'œil ⚡
 
-🔗 **URL du projet GitHub** : [project URL](https://github.com/raymond-odounhitan2000/server-stats)  
-🌐 **Page du projet** : [https://raymond-odounhitan2000.github.io/server-stats](https://raymond-odounhitan2000.github.io/server-stats)
+🔗 **URL du projet GitHub** : https://github.com/raymond-odounhitan2000/server-stats  
+🌐 **Page du projet** : https://raymond-odounhitan2000.github.io/server-stats
 
 ## 🚀 Objectif
 
