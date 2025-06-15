@@ -2,7 +2,8 @@
 
 ````markdown
 # 🖥️ server-stats.sh
-Project URL: https://raymond-odounhitan2000.github.io/server-stats
+page URL: [https://raymond-odounhitan2000.github.io/server-stats](https://raymond-odounhitan2000.github.io/server-stats/)
+project URL :[https://github.com/raymond-odounhitan2000/server-stats](https://github.com/raymond-odounhitan2000/server-stats)
 
 Script Bash simple et puissant pour analyser les performances d’un serveur Linux en un clin d'œil ⚡
 
