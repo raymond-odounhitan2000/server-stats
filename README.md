@@ -4,6 +4,8 @@
 # 🖥️ server-stats.sh
 
 Script Bash simple et puissant pour analyser les performances d’un serveur Linux en un clin d'œil ⚡
+🔗 **URL du projet GitHub** : [project URL](https://github.com/raymond-odounhitan2000/server-stats)
+
 
 ## 🚀 Objectif
 
@@ -26,7 +28,7 @@ Ce script permet d’obtenir rapidement les statistiques essentielles d’un ser
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/ton-utilisateur/server-stats.sh.git
+git clone https://github.com/raymond-odounhitan2000/server-stats
 cd server-stats.sh
 chmod +x server-stats.sh
 ````
