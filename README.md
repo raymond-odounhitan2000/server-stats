@@ -87,16 +87,6 @@ Aucun package externe requis. Le script utilise uniquement des commandes Unix st
 
 ---
 
-## ✨ Améliorations possibles
-
-* Export en JSON / CSV
-* Dashboard HTML ou graphique
-* Notification mail ou Telegram
-* Cron job quotidien
-* Intégration Grafana/Prometheus
-
----
-
 ## 🧠 Auteur
 
 > Développé avec 🧠, 💻 et 🕶️ par [Raymond ODOUNHITAN](https://github.com/raymond-odounhitan2000)
@@ -114,9 +104,4 @@ Ce projet est sous licence MIT — libre à toi de l’utiliser, le modifier et 
 *"Parce qu’un serveur qui parle, c’est un admin qui dort tranquille."*
 Hack the shell, own the world. 🌐
 
-```
-
----
-
-Tu veux une version en anglais, ou formatée pour GitLab/Notion/Portfolio ? Je t’envoie ça direct 🔥
 ```
