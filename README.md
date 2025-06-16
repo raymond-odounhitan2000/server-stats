@@ -1,17 +1,10 @@
-# server-stats
-
 ```markdown
 Project URL: https://github.com/raymond-odounhitan2000/server-stats
+Project Page URL: https://raymond-odounhitan2000.github.io/server-stats
 
 # 🖥️ server-stats.sh
 
-page URL: [https://raymond-odounhitan2000.github.io/server-stats](https://raymond-odounhitan2000.github.io/server-stats/)
-project URL : [https://github.com/raymond-odounhitan2000/server-stats](https://github.com/raymond-odounhitan2000/server-stats)
-
 Script Bash simple et puissant pour analyser les performances d’un serveur Linux en un clin d'œil ⚡
-
-🔗 **URL du projet GitHub** : https://github.com/raymond-odounhitan2000/server-stats  
-🌐 **Page du projet** : https://raymond-odounhitan2000.github.io/server-stats
 
 ## 🚀 Objectif
 
@@ -97,7 +90,7 @@ Aucun package externe requis. Le script utilise uniquement des commandes Unix st
 
 ## 🧠 Auteur
 
-> Développé avec 🧠, 💻 et 🕶️ par [Raymond ODOUNHITAN](https://github.com/raymond-odounhitan2000)
+Développé avec 🧠, 💻 et 🕶️ par [Raymond ODOUNHITAN](https://github.com/raymond-odounhitan2000)
 
 ---
 
