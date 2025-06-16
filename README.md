@@ -1,5 +1,5 @@
 ```markdown
-Project URL: https://github.com/raymond-odounhitan2000/server-stats
+Project URL: https://roadmap.sh/projects/server-stats
 Project Page URL: https://raymond-odounhitan2000.github.io/server-stats
 
 # 🖥️ server-stats.sh
