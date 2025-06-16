@@ -90,7 +90,7 @@ Aucun package externe requis. Le script utilise uniquement des commandes Unix st
 
 ## 🧠 Auteur
 
-Développé avec 🧠, 💻 et 🕶️ par [Raymond ODOUNHITAN](https://github.com/raymond-odounhitan2000)
+Développé avec 🧠, 💻 et 🕶️ par Raymond ODOUNHITAN
 
 ---
 
@@ -105,3 +105,4 @@ Ce projet est sous licence MIT — libre à toi de l’utiliser, le modifier et 
 *"Parce qu’un serveur qui parle, c’est un admin qui dort tranquille."*  
 Hack the shell, own the world. 🌐
 ```
+[2] https://pplx-res.cloudinary.com/image/private/user_uploads/73595429/497eb166-8292-4526-a138-6cff9507477e/image.jpg
